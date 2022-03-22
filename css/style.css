@@ -1,0 +1,11 @@
+body{
+    box-sizing: border-box;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+#header{
+    background-color: #4c2d7d;
+}
+#updbook,#deltebook{
+    border: none;
+    background-color: transparent;
+}
